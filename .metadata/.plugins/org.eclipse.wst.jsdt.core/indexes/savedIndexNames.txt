@@ -1,7 +1,2 @@
 INDEX VERSION 1.4+C:\Users\Aluno\Documents\pw2\AllanPedro\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1869188170.index
 879708460.index
-1006662897.index
-1739894010.index
-2371097608.index
-3855128382.index
